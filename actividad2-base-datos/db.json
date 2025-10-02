@@ -1,0 +1,45 @@
+[
+  {
+    "id": 101,
+    "nombre": "Laptop Asus ROG",
+    "precio": 1090.50,
+    "disponible": true,
+    "especificaciones": {
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+
+  {
+    "id": 102,
+    "nombre": "Mouse Logitech",
+    "precio": 25.00,
+    "disponible": false,
+    "especificaciones": {
+      "dpi": "3200",
+      "color": "Azul"
+    }
+  },
+
+  {
+    "id": 103,
+    "nombre": "Teclado Corsair",
+    "precio": 79.99,
+    "disponible": true,
+    "especificaciones": {
+      "tipoSwitch": "Blue",
+      "idioma": "EN"
+    }
+  },
+
+  {
+    "id": 104,
+    "nombre": "Auriculares HyperX",
+    "precio": 54.50,
+    "disponible": false,
+    "especificaciones": {
+      "estilo": "Inalámbrico",
+      "duración batería": "60hrs"
+    }
+  }
+]
