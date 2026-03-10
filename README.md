@@ -1,2 +1,2 @@
 # Base-Datos
-Practicas de bases de datos. 
+Prácticas y proyectos relacionados a los principios de las Bases de Datos. 
